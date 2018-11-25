@@ -1,0 +1,35 @@
+body{
+	margin-left: 530px;
+	background-color: grey;
+	color: white;
+	border-right: 500px;
+
+
+}
+h1 {
+	font-size: 46px;
+	color: red
+}
+
+img{
+	border-radius: 50px
+}
+.me{
+	color: blue;
+	font-size: 30px
+}
+#mail {
+	font-size: 30px;
+	color: green
+}
+p {
+	font-size: 16pt;
+
+}
+#link {
+	font-size: 30pt;
+	color: brown;	
+}
+ul {
+	font-size: 16pt;
+}
